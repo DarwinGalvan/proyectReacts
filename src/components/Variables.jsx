@@ -1,8 +1,10 @@
 import React from 'react'
 
 const Variables = () => {
+
+    const saludo = "Hola mundo"
   return (
-    <div>Variables</div>
+    <div>{saludo}</div>
   )
 }
 
